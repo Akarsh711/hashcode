@@ -1,5 +1,5 @@
 # hashcode
-'''python
+```python
 # Remove hard coded constants (for intersection.number)
 class Car():
 	# start = ''
@@ -199,4 +199,4 @@ if __name__ == "__main__":
 3 rue-d-athenes rue-de-moscou rue-de-londres
 '''
 print(city[1].traffic_light, city[1].name)
-'''
+```
